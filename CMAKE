@@ -1,1 +1,1 @@
-xy-inf.project.com
+xy-inf/project.com
